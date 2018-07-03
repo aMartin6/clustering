@@ -383,6 +383,7 @@ void get_parameters_file(double *density,struct syssize *syssize,
   int maxtime;
   int writemovietime;
   double kspring;
+  double potential_coefficient;
 
   resolution=1e-6;
 
